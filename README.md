@@ -8,8 +8,7 @@
 
 ```Plain Text
 
-
-![alt text](flow2.png)
+![项目流程图](./assets/flow2.png)
 
 
 ```
