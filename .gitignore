@@ -1,0 +1,12 @@
+# 忽略数据集文件夹
+data/
+
+# 忽略分析结果图片
+output/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
